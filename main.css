@@ -1,0 +1,99 @@
+
+.principal{
+
+  width:500px;
+  margin: 0 auto;
+  position: relative;
+}
+p{
+  font
+
+}
+.pasto{
+  position: relative ;
+  top:500px;
+  background-color:#581845;
+  width:600px;
+  height: 50px;
+}
+.casa{
+  background-color: #FFC300 ;
+  width:250px;
+  height:250px;
+  position: relative ;
+  top:200px;
+  left: 250px
+}
+.ventana1{
+  background-color:#FF5733;
+  width:50px;
+  height:50px;
+  position: relative;
+  bottom:-100px;
+  left: 440px;
+}
+.ventana2{
+  background-color:#FF5733;
+  width:50px;
+  height:50px;
+  position: relative;
+  bottom:-50px;
+  left: 260px;
+}
+.puerta{
+  background-color:white;
+  width:100px;
+  height:100px;
+  position: relative;
+  left:325px;
+}
+.techo{
+  position: relative;
+  left:165px;
+  bottom: 300px;
+  width: 300px;
+  height: 0px;
+  border-right: 60px solid transparent;
+  border-left: 60px solid transparent;
+  border-bottom: 100px solid #581845;
+}
+.chime{
+  background-color:white;
+  width:60px;
+  height:70px;
+  position: relative;
+  bottom:400px;
+  left: 430px;
+}
+.chime1{
+ 
+  width:50px;
+  height:50px;
+  position: relative;
+  bottom:500px;
+  left: 450px;
+  border-radius: 50%;
+  background: #C70039;
+}
+.chime2{
+ 
+  width:40px;
+  height:40px;
+  position: relative;
+  bottom:570px;
+  left: 470px;
+  border-radius: 50%;
+  background:   #900C3F  ;
+}
+.chime3{
+ 
+  width:30px;
+  height:30px;
+  position: relative;
+  bottom:620px;
+  left: 485px;
+  border-radius: 50%;
+  background: #581845;
+}
+
+
